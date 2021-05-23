@@ -1,8 +1,14 @@
-- 👋 Hi world, I’m @Fedi-Ftita
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-  ### Hi there👋, I’m @Fedi-Ftita
+
+- 😀 I'm a student.
+- 😺 I'm 20 years old.
+- 🎓 I study in "Institue Supérieure d'Informatique et de Technique de Communication Hammem Sousse"(ISITCOM).
+- 👀 I’m interested in technology and its surroundings.
+- 🌱 I am currently learning the internet of things(IOT).
+- 💞️ I belong to the isitcom google club (IGC) and am a member of it since 2020/2021.
+- 📫 How to reach me ... 1) Mail: fedi.fouda2001@gmail.com
+                          2) Facebook:(www.facebook.com/fedi.ftita.714/)
+                          3) Instagram: (www.instagram.com/fedi.ftita/?hl=fr)
 
 <!---
 Fedi-Ftita/Fedi-Ftita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
